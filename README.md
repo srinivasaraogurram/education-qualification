@@ -3,16 +3,23 @@
       <th>Degree Type</th>
       <th>Field</th>
       <th>Details</th>
+      <th>Links & Reference Information about the Degree</t>
     </tr>
     <!-- M.Tech -->
     <tr>
       <td rowspan="6"><strong>M.Tech</strong></td>
       <td>Name of University</td>
       <td>IETE, New Delhi</td>
+      <td rowspan="6"><img src="ALCCS/ALCCS-M-Tech.jpeg"/></td>
     </tr>
     <tr>
       <td>Specialization</td>
       <td>Advanced Level Course in Computer Science</td>
+    <tr>
+      <td>Specialization</td>
+      <td>M.Tech Computer Science - Title:Advanced Level Course in Computer Science</td>
+      
+    </tr>
     </tr>
     <tr>
       <td>Year of Start Date</td>

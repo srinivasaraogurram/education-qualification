@@ -17,7 +17,7 @@
       <td>Advanced Level Course in Computer Science</td>
     <tr>
       <td>Specialization</td>
-      <td>M.Tech Computer Science - Title:Advanced Level Course in Computer Science</td>
+      <td>Advanced Level Course in Computer Science</td>
     </tr>
     </tr>
     <tr>

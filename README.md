@@ -6,11 +6,11 @@
       <th>Links & Reference Information about the Degree</t>
     </tr>
     <!-- M.Tech -->
-    <tr>
-      <td rowspan="6"><strong>M.Tech</strong></td>
+    <tr rowspan="0">
+      <td rowspan="7"><strong>M.Tech</strong></td>
       <td>Name of University</td>
       <td>IETE, New Delhi</td>
-      <td rowspan="6"><img src="ALCCS/ALCCS-M-Tech.jpeg"/></td>
+      <td rowspan="7" align="top"  ><img src="ALCCS/ALCCS-M-Tech.jpeg"</td>
     </tr>
     <tr>
       <td>Specialization</td>
@@ -18,7 +18,6 @@
     <tr>
       <td>Specialization</td>
       <td>M.Tech Computer Science - Title:Advanced Level Course in Computer Science</td>
-      
     </tr>
     </tr>
     <tr>

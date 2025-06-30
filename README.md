@@ -86,6 +86,10 @@
   
 ---
 
-Note: As per US Education System, M.Sc, B.SC together is consider as B.S Degree 
+Note: As per US Education System, M.Sc, B.SC together is consider as B.S Degree  
+
+Please find the Education Evalution:  
+
+[Click here to view Education Evaluation Document](EducationEvaluation/Sri-Education-Evaluation.pdf)
 
 ---
